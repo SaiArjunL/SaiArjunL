@@ -32,9 +32,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: saiarjunl](https://img.shields.io/twitter/follow/saiarjunl?style=social)](https://twitter.com/saiarjunl)
-[![Linkedin: ladeela-sai-arjun-8b2b50104](https://img.shields.io/badge/-Ladeela Sai Arjun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ladeela-sai-arjun-8b2b50104/)](https://www.linkedin.com/in/ladeela-sai-arjun-8b2b50104/)
-[![GitHub saiarjunl](https://img.shields.io/github/followers/saiarjunl?label=follow&style=social)](https://github.com/saiarjunl)
 
 
 
