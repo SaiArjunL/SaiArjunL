@@ -30,7 +30,7 @@
 - 💬 Ask me about Technical stuff.
 - 📫 How to reach me: [LinkedIn - @ladeela-sai-arjun-8b2b50104](https://linkedin.com/in/ladeela-sai-arjun-8b2b50104) , [Instagram - @___sai_arjun___](https://instagram.com/___sai_arjun___/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: When I type, I sometimes like to use three to five dots…instead of a comma. It just feels more me.
 
 
 
