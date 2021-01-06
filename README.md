@@ -11,7 +11,7 @@
 <a href="https://github.com/saiarjunl">
   <img align="left" alt="Sai Arjun's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/sai_arjun_ladeela">
+<a href="https://t.me/Sai_Arjun_Ladeela">
   <img align="left" alt="Sai Arjun's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/___sai_arjun___/">
@@ -22,7 +22,6 @@
 </a>
 <br/>
 <br/>
-
 
 
 - 🔭 I’m currently working on Full Stack Development.
